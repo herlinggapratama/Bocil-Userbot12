@@ -25,7 +25,7 @@ from config import OWNER_ID
 
 WHITE = []
 
-BLACK = [2146322839]
+BLACK = [1880513467]
 
 
 def support():
