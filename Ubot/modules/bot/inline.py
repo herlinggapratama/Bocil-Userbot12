@@ -25,7 +25,7 @@ from config import OWNER_ID
 
 WHITE = []
 
-BLACK = [1880513467]
+BLACK = [843830036]
 
 
 def support():
@@ -34,8 +34,8 @@ def support():
             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/GeezRam"),
         ],
         [
-            InlineKeyboardButton(text="ᴅᴇᴘʟᴏʏ", url=f"t.me/?start"),
-            InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close"),
+    
+             InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close"),
         ],
     ]
     return buttons
